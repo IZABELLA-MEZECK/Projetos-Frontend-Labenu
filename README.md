@@ -15,9 +15,8 @@ Tecnologias usadas nos projetos:
 
 Projetos de estudos já adicionados:
 
-* Projeto Sistema Lojinha: 
+* Projeto Sistema Lojinha: [Projeto Sistema Lojinha](https://github.com/IZABELLA-MEZECK/Projetos-Frontend-Labenu/tree/master/html-sistema-loja)
 
-* Labetube: 
+* Labetube: [Projeto LabeTube](https://github.com/IZABELLA-MEZECK/Projetos-Frontend-Labenu/tree/master/jsx-labetube)
 
-
-* Star-Wars: (Projeto Star Wars)[https://github.com/IZABELLA-MEZECK/Projetos-Frontend-Labenu/tree/master/StarWars]
+* Star-Wars: [Projeto Star Wars](https://github.com/IZABELLA-MEZECK/Projetos-Frontend-Labenu/tree/master/StarWars)
